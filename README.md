@@ -14,7 +14,7 @@
 |*No*| *Latihan* | *Detail* |
 | 1 | P5JS WTC 911 | Sebuah skrip Javascript yang menggambarkan gedung wtc yang ditabrak oleh pesawat |
 # SCREENSHOT PROGRAM
-![Latihan 1](Belum muncul)
+![Latihan 1](https://github.com/KyzutoGH/GrafikaKomputerLatihan/blob/main/Latihan1/latihan1p5jsmm.png)
 
 | KyzuCODE - Latihan - Mata Kuliah Grafika Komputer |
 
