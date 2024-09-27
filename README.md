@@ -10,8 +10,8 @@
 # GRAFIKA KOMPUTER
 ### List Latihan
 *LIHAT HASIL BISA KLIK LINK*
-|  |  |  |  |
-|--|--|--|--|
+|  |  |  |
+|--|--|--|
 |*No*| *Latihan* | *Detail* |
 | 1 | [Latihan 1](https://kyzutogh.github.io/GrafikaKomputerLatihan/Latihan1/) | Membuat kanvas dengan ukuran sebesar 400x400 pixel dengan background bewarna biru aqua |
 | 2 | [Latihan 2](https://kyzutogh.github.io/GrafikaKomputerLatihan/Latihan2/) | Membuat kanvas dengan ukuran sebesar 400x400 pixel dengan background bewarna biru kehijauan |
