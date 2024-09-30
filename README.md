@@ -22,7 +22,7 @@
 ![Latihan 1](https://github.com/KyzutoGH/GrafikaKomputerLatihan/blob/main/Latihan1/latihan1p5jsmm.png)
 ![Latihan 2](https://github.com/KyzutoGH/GrafikaKomputerLatihan/blob/main/Latihan2/Latihan%202.png)
 ![Latihan 3](https://github.com/KyzutoGH/GrafikaKomputerLatihan/blob/main/Latihan3/Latihan%203.png)
-![Latihan 4](https://github.com/KyzutoGH/GrafikaKomputerLatihan/blob/main/Latihan5/Latihan%204.png)
+![Latihan 4](https://github.com/KyzutoGH/GrafikaKomputerLatihan/blob/main/Latihan4/Latihan%204.png)
 ![Latihan 5](https://github.com/KyzutoGH/GrafikaKomputerLatihan/blob/main/Latihan5/Latihan%205.png)
 
 | KyzuCODE - Latihan - Mata Kuliah Grafika Komputer |
